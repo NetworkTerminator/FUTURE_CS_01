@@ -1,1 +1,18 @@
 
+Subject: Urgent: Your Account Will Be Suspended
+
+From: security@example-training.com
+To: employee@example.com
+
+Dear Customer,
+
+We detected unusual activity on your account.
+
+Your account will be suspended within 24 hours unless you verify
+your information immediately.
+
+Click here to verify your account:
+https://example-training.invalid/verify
+
+Regards,
+Account Security Team
