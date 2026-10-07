@@ -5,20 +5,12 @@ Authentication-Results: spf=pass (sender IP is 209.85.222.71);
  dmarc=permerror action=none;
  header.from=substackss.firebaseapp.com;
  compauth=pass reason=111
-X-Sender-IP: 209.85.222.71
 Subject: Account Notice: Digital Token Update Needed
 From: "DBS/POSB." <noreply@substackss.firebaseapp.com>
 To: redacted@redacted.com
 Date: Thu, 12 Feb 2026 05:15:59 +0000
 MIME-Version: 1.0
-Content-Type: multipart/alternative; boundary="0000000000008a522a064a999579"
-
---0000000000008a522a064a999579
 Content-Type: text/plain; charset="UTF-8"
-Content-Transfer-Encoding: 8bit
-
-Logo
-
 
 Dear Customer,
 
@@ -37,6 +29,44 @@ After completing the update, please allow up to 12 hours before accessing
 your account. This processing period is required for the changes to take
 effect.
 
+If you need assistance or further clarification, please contact the
+DBS/POSB customer service hotline.
+
+Customers under DBS/POSB Treasures, Treasures Private Client, or Private
+Banking may reach out to the DBS/POSB Wealth Management hotline for
+dedicated support.
+
+Thank you for your understanding and cooperation.
+
+Yours sincerely,
+DBS / POSB Customer Support Team
+
+This is an automated notification. Please do not reply to this email.
+
+Unsubscribe.
+
+[HTML Content]
+
+DBS/POSB
+
+Dear Customer,
+
+We are writing to let you know that the authentication token associated
+with your DBS/POSB account is no longer valid. As a result, certain online
+banking services, including card-related transactions, may be temporarily
+affected.
+
+To ensure uninterrupted access to your digital banking services, please
+complete the update of your DBS Digital Token.
+
+[Update Your DBS Digital Token]
+Link: hxxps://email[.]notify[.]thinkific[.]com/c/[REDACTED-PHISHING-LINK]
+
+Important information:
+
+After completing the update, please allow up to 12 hours before accessing
+your account. This processing period is required for the changes to take
+effect.
 
 If you need assistance or further clarification, please contact the
 DBS/POSB customer service hotline.
@@ -50,113 +80,6 @@ Thank you for your understanding and cooperation.
 Yours sincerely,
 DBS / POSB Customer Support Team
 
-
 This is an automated notification. Please do not reply to this email.
+
 Unsubscribe.
-
-
---0000000000008a522a064a999579
-Content-Type: text/html; charset="UTF-8"
-Content-Transfer-Encoding: quoted-printable
-
-<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
-<p>&nbsp;</p>
-
-<!-- Main container -->
-<table style=3D"margin: 40px auto; border: 1px solid #e0e0e0; background-color: #ffffff;"
-width=3D"600" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">
-
-<tbody>
-
-<tr>
-<td style=3D"padding: 10px 0px; background-color: #000000;">
-<table width=3D"100%">
-<tbody>
-<tr>
-<td style=3D"width: 120px; text-align: right;">
-<img style=3D"width: 223px; height: 70px; margin-right: 15px;"
-src=3D"hxxps://www[.]dbs[.]com[.]sg/personal/edm/template2021/dbs/v4/images/brand-left[.]png"
-alt=3D"Logo" height=3D"40">
-</td>
-<td style=3D"color: #ffffff; font-size: 15px; font-weight: bold;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-
-<tr>
-<td style=3D"padding: 20px 40px; color: #333333; line-height: 1.6; font-size: 15px;">
-
-<p>Dear Customer,</p>
-
-<p>
-We are writing to let you know that the authentication token associated
-with your DBS/POSB account is no longer valid. As a result, certain online
-banking services, including card-related transactions, may be temporarily
-affected.
-</p>
-
-<p>
-To ensure uninterrupted access to your digital banking services, please
-complete the update of your DBS Digital Token.
-</p>
-
-<p style=3D"margin: 30px 0px; text-align: center;">
-<a style=3D"padding: 12px 25px; border-radius: 5px; color: #ffffff;
-font-weight: bold; text-decoration: none; display: inline-block;
-background-color: #d9232d;"
-href=3D"hxxps://email[.]notify[.]thinkific[.]com/c/[REDACTED-PHISHING-LINK]">
-Update Your DBS Digital Token
-</a>
-</p>
-
-<p style=3D"margin: 0px; line-height: normal; font-size: 13px;">
-<span style=3D"color: #ff0000;"><strong>Important information:</strong></span>
-<br>
-<span style=3D"color: #ff0000;">
-After completing the update, please allow up to 12 hours before accessing
-your account. This processing period is required for the changes to take
-effect.
-</span>
-</p>
-
-<p>
-If you need assistance or further clarification, please contact the
-DBS/POSB customer service hotline.
-</p>
-
-<p>
-Customers under DBS/POSB Treasures, Treasures Private Client, or Private
-Banking may reach out to the DBS/POSB Wealth Management hotline for
-dedicated support.
-</p>
-
-<p>
-Thank you for your understanding and cooperation.
-</p>
-
-<p>
-Yours sincerely,<br>
-DBS / POSB Customer Support Team
-</p>
-
-<br>
-
-<hr>
-
-<p style=3D"color: #777777; font-size: 13px;">
-This is an automated notification. Please do not reply to this email.<br>
-<a style=3D"color: #999999; text-decoration: underline;"
-href=3D"hxxps://bing[.]com">Unsubscribe</a>.
-</p>
-
-</td>
-</tr>
-
-</tbody>
-</table>
-
-<p>&nbsp;</p>
-
---0000000000008a522a064a999579--
