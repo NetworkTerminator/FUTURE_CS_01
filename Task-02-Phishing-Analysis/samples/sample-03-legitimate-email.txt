@@ -1,1 +1,27 @@
+From: hr@acme-example.com
+To: employee@redacted.com
+Subject: Reminder: Monthly Team Meeting
+Date: Mon, 05 Oct 2026 09:00:00 +0530
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
 
+Hello,
+
+This is a reminder that the monthly team meeting is scheduled for
+Wednesday, 7 October 2026 at 11:00 AM.
+
+The meeting will cover the following topics:
+
+- Review of the previous month's activities
+- Current project progress
+- Upcoming deadlines
+- Open discussion
+
+The meeting will be held through the company's regular internal
+communication platform.
+
+Please let me know if you are unable to attend.
+
+Regards,
+Human Resources
+ACME Example Company
